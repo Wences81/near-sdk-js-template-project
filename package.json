@@ -11,8 +11,9 @@
   "author": "Near Inc <hello@nearprotocol.com>",
   "license": "Apache-2.0",
   "dependencies": {
-    "near-sdk-js": "^0.4.0-2",
-    "lodash-es": "^4.17.21"
+    "lodash-es": "^4.17.21",
+    "near-api-js": "^1.0.0",
+    "near-sdk-js": "^0.4.0-2"
   },
   "devDependencies": {
     "ava": "^4.2.0",
